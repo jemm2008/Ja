@@ -1,0 +1,12 @@
+/* CSS BASICO */
+div{
+width: 950px;
+background-color: rgb(107, 107, 143);
+outline: 1px solid red;
+}
+
+
+h1{
+    text-align: center;
+    padding: 50px;
+}
