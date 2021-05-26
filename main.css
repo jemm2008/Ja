@@ -1,12 +1,19 @@
 /* CSS BASICO */
 div{
 width: 950px;
-background-color: rgb(107, 107, 143);
+background-color: rgb(171, 171, 192);
 outline: 1px solid red;
+padding-bottom: 50px;
 }
 
 
 h1{
     text-align: center;
     padding: 50px;
+}
+
+p{
+    margin: 15px;
+    padding: 35px;
+    outline: 1px solid purple;
 }
