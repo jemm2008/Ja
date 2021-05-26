@@ -1,0 +1,6 @@
+# ARCHIVO GUITIGNORE
+#
+packages/
+/secret.js
+*.txt
+log*
